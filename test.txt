@@ -1,0 +1,3 @@
+---this file will not be checked and commited with the project
+---*.txt
+this file will be checked and commited with the project
